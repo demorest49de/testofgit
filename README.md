@@ -1,0 +1,3 @@
+# testofgit
+
+--rebase
